@@ -2,6 +2,26 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
 
+Some useful commands ...
+
+C:\Users\...\Documents\Dev\messageboard>npm install -g @angular/cli
+
+C:\Users\...\Documents\Dev\messageboard>ng new frontend
+
+
+
+C:\Users\...\Documents\Dev\messageboard>ng new frontend
+? Would you like to add Angular routing? Yes
+? Which stylesheet format would you like to use? (Use arrow keys)
+> CSS
+  SCSS   [ http://sass-lang.com/documentation/file.SASS_REFERENCE.html#syntax ]
+  Sass   [ http://sass-lang.com/documentation/file.INDENTED_SYNTAX.html       ]
+  Less   [ http://lesscss.org                                                 ]
+  Stylus [ http://stylus-lang.com                                             ]
+
+
+PS C:\Users\...\Documents\Dev\messageboard\frontend> ng serve -o
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
