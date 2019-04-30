@@ -8,5 +8,5 @@ import { MessagesComponent } from './messages.component';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'My frontend';
+  title = 'My Angular App Frontend';
 }
